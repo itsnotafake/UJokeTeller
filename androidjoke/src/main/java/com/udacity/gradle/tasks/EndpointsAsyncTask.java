@@ -5,6 +5,7 @@ import android.content.Context;
 import android.os.AsyncTask;
 import android.util.Log;
 import android.util.Pair;
+import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -61,6 +62,6 @@ public class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
         if(tv != null) {
             tv.setText(result);
         }
-        Log.e("THISISAREALTAG","We are live");
+        activity.findViewById(R.id.joke_progress).setVisibility(View.GONE);
     }
 }
