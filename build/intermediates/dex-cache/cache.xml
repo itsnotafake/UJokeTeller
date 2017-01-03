@@ -8,43 +8,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_0db2946c28a9a242fd4f26c1a2d406b36d1ccf8e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_fda372da1de1def19b8e5911b78bcc19f43fe4f6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-v4-25.1.0_aa042b639f60d46f863c7ae99bd2b38dbe9f0b37\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-api-client-1.20.0_93eea1ece5526cf910b576ae7599e34262c3c818\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-oauth-client-1.20.0_847a652bb8c8186d85e611f131bcc0925c3efbd4\classes.dex" />
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_0db2946c28a9a242fd4f26c1a2d406b36d1ccf8e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -53,7 +17,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_e9bba9998ba403bed94dde752fb4cfeacbbf775c\classes.dex" />
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_e9bba9998ba403bed94dde752fb4cfeacbbf775c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -62,25 +26,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_0d8b97f02c81c33cd29887f09844ecda6dddf59f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\guava-jdk5-13.0_8307d1943bd1b94fbdb3a7109bc26c7480fc08e5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\incremental-runtime-classes\paid\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4c990e917856de5a217bbb644040b4ec03fb56bf">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\instant-run_c4194fd6d4dbfce035b12d680a920b8acf5dc66e\classes.dex" />
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_0d8b97f02c81c33cd29887f09844ecda6dddf59f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -89,25 +35,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\jsr305-2.0.1_ecde76955927d741019c3cf50efd54e4a32f634b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-http-client-android-1.20.0_04b8836d6db947c6251ec78ee00c377b29e670de\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Devin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\support-annotations-25.1.0_07f80cc843d9ed11bbfb33a68f7c4a62ef894cb9\classes.dex" />
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\jsr305-2.0.1_ecde76955927d741019c3cf50efd54e4a32f634b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -116,43 +44,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-compat-25.1.0_ef88ffa28ce46a567e4f2481dcb8c760c5aa5873\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_7b90850e89437e3930f528415b617747242e6745\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="05673179575c32b69a474334255c3044adf18d40">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-api-client-android-1.20.0_1350945565d111f252b29d61994d262fde897345\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2408070b2abec043624d35b35e30450f1b663858">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-http-client-jackson2-1.20.0_4b57ed876f0e8f49f28770d1bc720f38d3e3f129\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_bbdd2d823278789949d151af869ecce8e48f7491\classes.dex" />
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.android.support-support-compat-25.1.0_ef88ffa28ce46a567e4f2481dcb8c760c5aa5873\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -161,16 +53,16 @@
         optimize="true"
         revision="24.0.3"
         sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-http-client-1.20.0_1a994ace36d700b81a45f59abc8012eae987f50f\classes.dex" />
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\google-http-client-1.20.0_1a994ace36d700b81a45f59abc8012eae987f50f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_cefaea647aa438c889f56bfafb09c97f02a1c68e\classes.dex" />
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_9d8bb48b2865de652fe26c51d649e6bbc5ea07f4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -179,16 +71,187 @@
         optimize="true"
         revision="24.0.3"
         sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\jackson-core-2.1.3_3e01ecbaa4457aaddadce61258e7521c74488ca3\classes.dex" />
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\jackson-core-2.1.3_3e01ecbaa4457aaddadce61258e7521c74488ca3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\incremental-classes\paid\debug\instant-run-bootstrap.jar"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0ed8bb1d86559c0377fb123b90128deb1d8d3c5b">
-        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\instant-run-bootstrap_52daec3c7a3846c87e7f177e4f3e957e440a7a9d\classes.dex" />
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_fda372da1de1def19b8e5911b78bcc19f43fe4f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.android.support-support-v4-25.1.0_aa042b639f60d46f863c7ae99bd2b38dbe9f0b37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\guava-jdk5-13.0_8307d1943bd1b94fbdb3a7109bc26c7480fc08e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_774e2ccd78a7805ed8533c2668360f5d2c5148de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\google-http-client-android-1.20.0_04b8836d6db947c6251ec78ee00c377b29e670de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_ad478e4bda8d768b6c4c71386d7c5f3626e67663\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\support-annotations-25.1.0_07f80cc843d9ed11bbfb33a68f7c4a62ef894cb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_ac25ac56cbc1d010d164d520b38e61b5f76b5ee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_7b90850e89437e3930f528415b617747242e6745\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\google-api-client-android-1.20.0_1350945565d111f252b29d61994d262fde897345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\google-http-client-jackson2-1.20.0_4b57ed876f0e8f49f28770d1bc720f38d3e3f129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_bbdd2d823278789949d151af869ecce8e48f7491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_cefaea647aa438c889f56bfafb09c97f02a1c68e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\incremental-classes\free\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5bc3f8ef9cd43f80ee45c807d1996614be75e7d6">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\instant-run-bootstrap_8a7a4e457a1efc1ad1d50d6e3983c4f259d3d54b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\google-oauth-client-1.20.0_847a652bb8c8186d85e611f131bcc0925c3efbd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_4eb6ab3e753aaa903e9b16c5af8d88096c6e234a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_a8b5405ab324c1c9df432821a281057b8debaeb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devin\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\google-api-client-1.20.0_93eea1ece5526cf910b576ae7599e34262c3c818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_400dff55c629d701817af0129b6e70972a812751\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\incremental-runtime-classes\free\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="56a9f2344400a03c834322be3469cdf2a0af2d24">
+        <dex dex="C:\cygwin64\home\Devin\github\UJokeTeller\app\build\intermediates\transforms\dex\free\debug\folders\1000\10\instant-run_b22220215ed1f33bc7c9f69beb604288d8e778af\classes.dex" />
     </item>
 
 </items>

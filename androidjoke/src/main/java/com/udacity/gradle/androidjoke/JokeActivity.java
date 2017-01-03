@@ -8,8 +8,6 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.udacity.gradle.tasks.EndpointsAsyncTask;
-
 public class JokeActivity extends AppCompatActivity {
 
     public static final String JOKE = "jk";
@@ -19,10 +17,7 @@ public class JokeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_joke);
-        mPB = (ProgressBar) findViewById(R.id.joke_progress);
-        mPB.setVisibility(View.GONE);
-        mPB.setVisibility(View.VISIBLE);
-
-        new EndpointsAsyncTask().execute(this);
+        TextView jokeView = (TextView) findViewById(R.id.joke_joke);
+        jokeView.setText(getIntent().getStringExtra(JOKE));
     }
 }
